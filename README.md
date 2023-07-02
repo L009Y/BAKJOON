@@ -1,2 +1,3 @@
 # BAKJOON
-Space to store code created to solve problems provided by Baekjun
+
+Beakjoon에서 푼 문제의 코드들 모음
